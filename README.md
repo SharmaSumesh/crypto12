@@ -32,5 +32,3 @@
 ![image](https://user-images.githubusercontent.com/78155393/227704456-39d2910e-b8e8-4a4c-aff4-289799b7b797.png)
 #### Added to WatchList
 ![image](https://user-images.githubusercontent.com/78155393/227704491-6e248b7e-3315-4f7b-b416-81b456e3c3ed.png)
-#### Login/Signup via Google, Gmail.
-![image](https://user-images.githubusercontent.com/78155393/227705447-83333e2b-e951-4491-bc17-7a27989e63d0.png)
